@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b1e765e-8416-4cc5-a885-6b72b3f0d2f0" name="Changes" comment="All solved problem from Beecrawd insert in week1">
+    <list default="true" id="7b1e765e-8416-4cc5-a885-6b72b3f0d2f0" name="Changes" comment="All solved problem from Beecrawd 1176 insert in week2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neobis/week1/BranchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/neobis/week1/Bee1176.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/neobis/week1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/neobis/week1/Test2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690259653405</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All solved problem from Beecrawd 1176 insert in week2">
+      <option name="closed" value="true" />
+      <created>1690703920801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690703920801</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +213,7 @@
     <MESSAGE value="added an emty Java project" />
     <MESSAGE value="added an empty Java project" />
     <MESSAGE value="All solved problem from Beecrawd insert in week1" />
-    <option name="LAST_COMMIT_MESSAGE" value="All solved problem from Beecrawd insert in week1" />
+    <MESSAGE value="All solved problem from Beecrawd 1176 insert in week2" />
+    <option name="LAST_COMMIT_MESSAGE" value="All solved problem from Beecrawd 1176 insert in week2" />
   </component>
 </project>
